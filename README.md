@@ -1,1 +1,1 @@
-# MAT2440-Projects-F24
+# This project implement the max and linear search algorithms.
